@@ -1,49 +1,60 @@
-# Hi 👋, I'm Chaitanya Takle
+<h1 align="center">Hi 👋, I'm Chaitanya Takle</h1>
+<h3 align="center">🚀 BCA Student | MERN Stack Developer</h3>
 
-🎓 BCA Student  
-💻 MERN Stack Developer  
-🚀 Passionate about building modern web applications  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;JavaScript+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on web development projects  
-- 🌱 I’m learning **Next.js & advanced backend development**  
-- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, React, Next.js**  
-- 📫 How to reach me: chaitanyatakle60@gmail.com  
-- ⚡ Fun fact: I love turning ideas into real-world web apps 🚀  
+- 🔭 Working on **MERN Stack Projects**
+- 🌱 Learning **Next.js & Advanced Backend**
+- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, React, Next.js**
+- ⚡ Fun fact: I turn ideas into real web apps 🚀  
 
 ---
 
-## 🛠️ Tech Stack
-- JavaScript  
-- Node.js  
-- Express.js  
-- MongoDB  
-- React.js  
-- Next.js
-- Tailwindcss 
-- HTML & CSS  
+## 🚀 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,nextjs,html,css" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya100000&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya100000&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Chaitanya100000&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Chaitanya100000&theme=tokyonight" />
+</p>
 
 ---
 
-## 📌 Projects
-- 🔹 MERN Stack Projects  
-- 🔹 Web Applications  
-- 🔹 Practice & Learning Projects  
+## 🧠 Currently Learning
+- Next.js  
+- Backend Optimization  
+- API Development  
 
 ---
 
-## 🤝 Connect with Me
-- GitHub: https://github.com/Chaitanya100000
-- LinkedIn: https://www.linkedin.com/in/chaitanya-takale-0314a7332/
+## 📌 Featured Projects
+- 🔹 MERN Stack Web Apps  
+- 🔹 Full Stack Projects  
+- 🔹 Practice Projects  
+
+---
+
+## 🤝 Connect With Me
+<p>
+  <a href="https://github.com/Chaitanya100000">GitHub</a>
+</p>
+
+---
+
+⭐ From Chaitanya Takle
