@@ -1,26 +1,27 @@
 # Hi 👋, I'm Chaitanya Takle
 
-🎓 Computer Science Student  
-💻 Passionate about Programming & Development  
-🌱 Currently learning JavaScript, DBMS & Web Development  
-🚀 Goal: Become a Full Stack Developer  
+🎓 BCA Student  
+💻 MERN Stack Developer  
+🚀 Passionate about building modern web applications  
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on college assignments & projects  
-- 🌱 I’m learning **JavaScript, SQL, DBMS**  
-- 💬 Ask me about **C, C++, DBMS, SQL**  
+- 🔭 I’m currently working on web development projects  
+- 🌱 I’m learning **Next.js & advanced backend development**  
+- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, React, Next.js**  
 - 📫 How to reach me: your-email@example.com  
-- ⚡ Fun fact: I love solving problems and learning new tech  
+- ⚡ Fun fact: I love turning ideas into real-world web apps 🚀  
 
 ---
 
-## 🛠️ Languages & Tools
-- C  
-- C++  
+## 🛠️ Tech Stack
 - JavaScript  
-- SQL  
+- Node.js  
+- Express.js  
+- MongoDB  
+- React.js  
+- Next.js  
 - HTML & CSS  
 
 ---
@@ -35,13 +36,13 @@
 
 ---
 
-## 📌 Top Projects
-- 🔹 DBMS Assignments  
-- 🔹 SQL Practice Queries  
-- 🔹 JavaScript Practice Questions  
+## 📌 Projects
+- 🔹 MERN Stack Projects  
+- 🔹 Web Applications  
+- 🔹 Practice & Learning Projects  
 
 ---
 
 ## 🤝 Connect with Me
-- LinkedIn: (Add your link)
 - GitHub: https://github.com/Chaitanya100000
+- LinkedIn: (add your link)
