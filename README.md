@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on web development projects  
 - 🌱 I’m learning **Next.js & advanced backend development**  
 - 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, React, Next.js**  
-- 📫 How to reach me: your-email@example.com  
+- 📫 How to reach me: chaitanyatakle60@gmail.com  
 - ⚡ Fun fact: I love turning ideas into real-world web apps 🚀  
 
 ---
@@ -21,7 +21,8 @@
 - Express.js  
 - MongoDB  
 - React.js  
-- Next.js  
+- Next.js
+- Tailwindcss 
 - HTML & CSS  
 
 ---
@@ -45,4 +46,4 @@
 
 ## 🤝 Connect with Me
 - GitHub: https://github.com/Chaitanya100000
-- LinkedIn: (add your link)
+- LinkedIn: https://www.linkedin.com/in/chaitanya-takale-0314a7332/
