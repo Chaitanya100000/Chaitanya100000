@@ -10,14 +10,14 @@
 ## 🧑‍💻 About Me
 - 🔭 Working on **MERN Stack Projects**
 - 🌱 Learning **Next.js & Advanced Backend**
-- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, React, Next.js**
+- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, React, Next.js, Tailwindcss**
 - ⚡ Fun fact: I turn ideas into real web apps 🚀  
 
 ---
 
 ## 🚀 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,nextjs,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,nextjs,tailwind,html,css" />
 </p>
 
 ---
